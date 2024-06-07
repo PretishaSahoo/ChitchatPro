@@ -271,7 +271,7 @@ export default function Login() {
           className="flex flex-col items-center justify-center w-full h-full p-6 m-4 text-white "
           style={{ minHeight: "100vh", minWidth: "100vw"  }}
         >
-          <h1 className="text-8xl font-bold  ">ChitChat</h1>
+          <h1 className="text-7xl font-bold  ">ChitChat</h1>
           <img
             src={messaging}
             alt="ChitChat Image"
