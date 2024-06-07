@@ -268,7 +268,7 @@ export default function Login() {
     </div>): 
     (<>
         <div
-          className="flex flex-col items-center justify-center w-full h-full p-6  text-white "
+          className="flex flex-col items-center justify-center w-full h-full p-6 m-4 text-white "
           style={{ minHeight: "100vh", minWidth: "100vw"  }}
         >
           <h1 className="text-8xl font-bold  ">ChitChat</h1>
